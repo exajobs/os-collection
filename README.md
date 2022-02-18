@@ -6,16 +6,15 @@
 ## `About Operating Systems (OS)?`
 
 ## `Table of Contents`
-## 
- - [WINDOWS](#--windows)
- - [MACINTOSH](#-macintosh)
- - [LINUX](#--linux)
- - [INDIE-OS](#-indie-os)
- - [PORTFOLIO/PERSONAL0OS](#-portfoliopersonal-os)
- - [GOOD-OLD-OSs](#good-old-oss)
- - [OTHER SOURCES](#other-sources)
- - [BROWSERS](#-browsers)
- - [FOR WHOM](#for-whom)
+ - [Windows](#--windows)
+ - [Macintosh](#-macintosh)
+ - [Linux](#--linux)
+ - [Indie-OS](#-indie-os)
+ - [Portfolio](#-portfoliopersonal-os)
+ - [good-old-os](#good-old-oss)
+ - [Other Sources](#other-sources)
+ - [Browsers](#-browsers)
+ - [For Whom](#for-whom)
 
 
  

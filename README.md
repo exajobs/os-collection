@@ -7,9 +7,9 @@
 
 ## `Table of Contents`
 
- - [Open Source Operating Systems]
- - [Hobby]
- - [Popular Operating Systems]
+ - [Open Source Operating Systems](#open-source-operating-systems]
+ - [Hobby](#hobby)
+ - [Popular Operating Systems](#popular-operating-system)
  - [Windows](#--windows)
  - [Macintosh](#-macintosh)
  - [Linux](#--linux)

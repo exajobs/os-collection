@@ -153,11 +153,14 @@
 * [Writing a Bootloader](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/) by Alex Parker
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os)
 
-### Website
+### Website & Virtualization
 * [Genodians](https://genodians.org/) - Stories around the Genode Operating System
 * [os-dev](http://wiki.osdev.org/Main_Page) - Wiki with everything you need to know
 * [Lowlevel](http://www.lowlevel.eu/wiki/Hauptseite) - A wiki about creating an OS from scratch. In German
 * [POSIX](https://pubs.opengroup.org/onlinepubs/9699919799/) - Standards for maintaining compatibility between operating systems
+* [OS Boxes](https://www.osboxes.org/)
+* [VMware Marketplace](https://marketplace.cloud.vmware.com/)
+* [Virtualization Platform Comparisons](https://en.wikipedia.org/wiki/Comparison_of_platform_virtualization_software)
 
 ### Papers
 * [The benefits and costs of writing a POSIX kernel in a high-level language](https://www.usenix.org/conference/osdi18/presentation/cutler) by Cody Cutler, M. Frans Kaashoek, and Robert T. Morris, MIT CSAIL

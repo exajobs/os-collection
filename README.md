@@ -1,1 +1,1 @@
-# os-collection
+# Operating Systems (OS) Collection

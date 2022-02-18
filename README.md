@@ -7,7 +7,7 @@
 
 ## `Table of Contents`
 
- - [Introduction](#about-operating-systems--os)
+ - [Introduction](#about-operating-systems-os)
  - [Open Source Operating Systems](#open-source-operating-systems)
  - [Hobby](#hobby)
  - [Popular Operating Systems](#popular-operating-system)
